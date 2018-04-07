@@ -13,6 +13,20 @@
 
 ## Program
 
+This is an readapted upper/lower split workout inspired by multiple sources. (see the [Resources](#resources) section) This workout is intended primarly at building muscle. 
+
+The traning schedule takes the following form :
+
+- Day 1 - Upper Body
+- Day 2 - Lower Body
+- Day 3 - Off
+- Day 4 - Upper Body
+- Day 5 - Lower Body
+- Day 6 - Off
+- Day 7 - Off
+
+---
+
 - Day #1
 
   | Upper Body                                                                    |          |          |
