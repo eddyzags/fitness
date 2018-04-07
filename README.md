@@ -6,6 +6,8 @@
 
 - [Current Program](#current-program)
 - [Reports](#reports)
+  - [April 2018](#april-2018)
+- [Notes](#notes)
 - [Resources](#resources)
 
 ## Current Program
@@ -65,6 +67,12 @@
 | Seated Calf Raise - 3 sec negative | 2        | 10-12    |
 | Planks                             | 3        | 60 sec   |
 | Hyperextension                     | 3        | 10-12    |
+
+## Notes
+
+### April 2018
+
+...
 
 ## Reports
 
