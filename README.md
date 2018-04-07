@@ -4,14 +4,14 @@
 
 ## Contents
 
-- [Current Program](#current-program)
+- [Program](#program)
 - [Nutrition](#nutrition)
 - [Reports](#reports)
   - [April 2018](#april-2018)
 - [Notes](#notes)
 - [Resources](#resources)
 
-## Current Program
+## Program
 
 ### Day #1
 
