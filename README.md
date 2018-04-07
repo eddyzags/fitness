@@ -96,7 +96,6 @@ The traning schedule takes the following form :
 ### Foods
 
 > All foods are not created equally, they will contain different Macros and Micros. Macronutrients are protein (amino acids), fat (saturated/unsaturated/Omega-3, etc.), carbohydrates (starches/sugars) and alcohol. Micronutrients are vitamins and minerals that you consume in order to maintain physiological processes. Most of your necessary micronutrients should be obtained through regular eating, but taking a multi-vitamin every day may fill in any gaps in your diet.  
-  
 ― [/r/gainit What should I be eating](https://www.reddit.com/r/gainit/wiki/index#wiki_what_should_i_be_eating.3F)
 
 ### Creatine
