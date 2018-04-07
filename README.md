@@ -96,18 +96,21 @@ The traning schedule takes the following form :
 ### Foods
 
 > All foods are not created equally, they will contain different Macros and Micros. Macronutrients are protein (amino acids), fat (saturated/unsaturated/Omega-3, etc.), carbohydrates (starches/sugars) and alcohol. Micronutrients are vitamins and minerals that you consume in order to maintain physiological processes. Most of your necessary micronutrients should be obtained through regular eating, but taking a multi-vitamin every day may fill in any gaps in your diet.  
-― [/r/gainit What should I be eating](https://www.reddit.com/r/gainit/wiki/index#wiki_what_should_i_be_eating.3F)
+>
+> — [/r/gainit What should I be eating](https://www.reddit.com/r/gainit/wiki/index#wiki_what_should_i_be_eating.3F)
 
 ### Creatine
 
 > I see no reason why somebody shouldn’t supplement creatine, nor do I see any logical basis for the seeming “fear” of this compound in society. It’s safe, it’s healthy, it’s cheap, and for most people it just works. Get some creatine monohydrate, take 5 g/day, and you’re good to go.  
-If humans didn’t make any in the body, creatine would be a vitamin. There do exist deficiency symptoms that result in mental retardation.[2] They’re rare, but they pretty much establish the importance of this molecule as a vitamin-like compound.  
-― [Kurtis Frank](https://examine.com/user/kurtisfrank/)
+> If humans didn’t make any in the body, creatine would be a vitamin. There do exist deficiency symptoms that result in mental retardation.[2] They’re rare, but they pretty much establish the importance of this molecule as a vitamin-like compound.  
+>
+> — [Kurtis Frank](https://examine.com/user/kurtisfrank/)
 
 > Creatine is quite well-studied, and seems safe and effective in enhancing some aspects of performance.  
-5 g/day of the cheap monohydrate powder (no need for anything fancy) seems great for anyone looking to increase power output.  
-In short - if you do something like sprinting or strength training, it’s probably worth taking.  
-― [Gregory Lopez](#)
+> 5 g/day of the cheap monohydrate powder (no need for anything fancy) seems great for anyone looking to increase power output.  
+> In short - if you do something like sprinting or strength training, it’s probably worth taking.  
+>
+> ― [Gregory Lopez](#)
 
 
 ## Resources
