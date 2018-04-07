@@ -7,8 +7,8 @@
 ### Day 1
 
 | Upper Body                     |          |          |
-| __Exercise__                   | __Reps__ | __Sets__ |
 |--------------------------------|----------|----------|
+| __Exercise__                   | __Reps__ | __Sets__ |
 | Bench Press                    | 3        | 6-12     |
 | Barbell  Row                   | 3        | 6-12     |
 | Seated Overhead Dumbbell Press | 3        | 8-12     |
@@ -21,8 +21,8 @@
 ### Day 2
 
 | Lower Body                         |          |          |
-| __Exercise__                       | __Reps__ | __Sets__ |
 |------------------------------------|----------|----------|
+| __Exercise__                       | __Reps__ | __Sets__ |
 | Squat                              | 3        | 6-12     |
 | Stiff Leg Deadlifts                | 3        | 8-12     |
 | Standing Calf Raise                | 3        | 10-15    |
@@ -35,8 +35,8 @@
 ### Day 4
 
 | Upper Body                                |          |          |
-| __Exercise__                              | __Reps__ | __Sets__ |
 |-------------------------------------------|----------|----------|
+| __Exercise__                              | __Reps__ | __Sets__ |
 | Incline Dumbbell Bench Press              | 3        | 8-12     |
 | Rack Deadlifts                            | 3        | 5-8      |
 | Military Press                            | 3        | 8-12     |
@@ -49,8 +49,8 @@
 ### Day 5
 
 | Lower Body                         |          |          |
-| __Exercise__                       | __Reps__ | __Sets__ |
 |------------------------------------|----------|----------|
+| __Exercise__                       | __Reps__ | __Sets__ |
 | Leg Press                          | 3        | 10-12    |
 | Dumbbell Stiff Leg Deadlifts       | 3        | 8-12     |
 | Leg Press Calf Raise               | 3        | 10-15    |
