@@ -17,17 +17,17 @@ This is an readapted upper/lower split workout inspired by multiple sources. (se
 
 The traning schedule takes the following form :
 
-- Day 1 - Upper Body
-- Day 2 - Lower Body
-- Day 3 - Off
-- Day 4 - Upper Body
-- Day 5 - Lower Body
-- Day 6 - Off
-- Day 7 - Off
+- **Day 1** - Upper Body
+- **Day 2** - Lower Body
+- **Day 3** - Off
+- **Day 4** - Upper Body
+- **Day 5** - Lower Body
+- **Day 6** - Off
+- **Day 7** - Off
 
 ---
 
-- Day #1
+- **Day 1**
 
   | Upper Body                                                                    |          |          |
   |-------------------------------------------------------------------------------|----------|----------|
@@ -41,7 +41,7 @@ The traning schedule takes the following form :
   | [Cable Tricep Extensions](https://www.youtube.com/watch?v=mpZ9VRisAyw)        | 3        | 8-12     |
   | Cable Curls                                                                   | 3        | 8-12     |
 
-- Day #2
+- **Day 2**
 
   | Lower Body                                                                        |          |          |
   |-----------------------------------------------------------------------------------|----------|----------|
@@ -55,7 +55,7 @@ The traning schedule takes the following form :
   | Cable Crunch - 3 sec negative                                                     | 3        | 10-12    |
   | Cable Pull Through w/Rope                                                         | 3        | 10-12    |
 
-- Day #4
+- **Day 4**
 
   | Upper Body                                                                               |          |          |
   |------------------------------------------------------------------------------------------|----------|----------|
@@ -69,7 +69,7 @@ The traning schedule takes the following form :
   | Dumbbell Curls - 3 sec negative                                                          | 3        | 8-12     |
   | Machine Tricep Dip - 3 sec negative                                                      | 3        | 8-12     |
 
-- Day #5
+- **Day 5**
 
   | Lower Body                                                                        |          |          |
   |-----------------------------------------------------------------------------------|----------|----------|
