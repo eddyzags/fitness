@@ -83,4 +83,5 @@
 
 - [/r/fitness wiki](https://www.reddit.com/r/Fitness/wiki/index)
 - [/r/gainit wiki](https://www.reddit.com/r/gainit/wiki/index)
+- [TDEE Calculator](https://www.bodybuilding.com/fun/calculate-your-total-daily-energy-expenditure-tdee.html)
 - [ATHLEAN-X YouTube channel](https://www.youtube.com/channel/UCe0TLA0EsQbE-MjuHXevj2A)
