@@ -4,8 +4,9 @@
 
 ## Current Program
 
-### Day 1 - __Upper Body__
+### Day 1
 
+| Upper Body                     |          |          |
 | __Exercise__                   | __Reps__ | __Sets__ |
 |--------------------------------|----------|----------|
 | Bench Press                    | 3        | 6-12     |
@@ -17,8 +18,9 @@
 | Cable Tricep Extensions        | 3        | 8-12     |
 | Cable Curls                    | 3        | 8-12     |
 
-### Day 2 - __Lower Body__
+### Day 2
 
+| Lower Body                         |          |          |
 | __Exercise__                       | __Reps__ | __Sets__ |
 |------------------------------------|----------|----------|
 | Squat                              | 3        | 6-12     |
@@ -30,8 +32,9 @@
 | Cable Crunch - 3 sec negative      | 3        | 10-12    |
 | Cable Pull Through w/Rope          | 3        | 10-12    |
 
-### Day 4 - __Upper Body__
+### Day 4
 
+| Upper Body                                |          |          |
 | __Exercise__                              | __Reps__ | __Sets__ |
 |-------------------------------------------|----------|----------|
 | Incline Dumbbell Bench Press              | 3        | 8-12     |
@@ -43,8 +46,9 @@
 | Dumbbell Curls - 3 sec negative           | 3        | 8-12     |
 | Machine Tricep Dip - 3 sec negative       | 3        | 8-12     |
 
-### Day 5 - __Lower Body__
+### Day 5
 
+| Lower Body                         |          |          |
 | __Exercise__                       | __Reps__ | __Sets__ |
 |------------------------------------|----------|----------|
 | Leg Press                          | 3        | 10-12    |
