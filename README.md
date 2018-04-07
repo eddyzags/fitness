@@ -13,7 +13,7 @@
 
 ## Program
 
-### Day #1
+- Day #1
 
 | Upper Body                     |          |          |
 |--------------------------------|----------|----------|
@@ -27,7 +27,7 @@
 | Cable Tricep Extensions        | 3        | 8-12     |
 | Cable Curls                    | 3        | 8-12     |
 
-### Day #2
+- Day #2
 
 | Lower Body                         |          |          |
 |------------------------------------|----------|----------|
@@ -41,7 +41,7 @@
 | Cable Crunch - 3 sec negative      | 3        | 10-12    |
 | Cable Pull Through w/Rope          | 3        | 10-12    |
 
-### Day #4
+- Day #4
 
 | Upper Body                                |          |          |
 |-------------------------------------------|----------|----------|
@@ -55,7 +55,7 @@
 | Dumbbell Curls - 3 sec negative           | 3        | 8-12     |
 | Machine Tricep Dip - 3 sec negative       | 3        | 8-12     |
 
-### Day #5
+- Day #5
 
 | Lower Body                         |          |          |
 |------------------------------------|----------|----------|
