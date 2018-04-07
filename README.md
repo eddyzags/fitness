@@ -5,7 +5,7 @@
 ## Contents
 
 - [Current Program](#current-program)
-- [Progress](#progress)
+- [Reports](#reports)
 - [Resources](#resources)
 
 ## Current Program
@@ -66,7 +66,7 @@
 | Planks                             | 3        | 60 sec   |
 | Hyperextension                     | 3        | 10-12    |
 
-## Progress
+## Reports
 
 ## Resources
 
