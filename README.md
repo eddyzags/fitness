@@ -2,6 +2,12 @@
 
 > This repository is used to store notes and details about fitness.
 
+## Contents
+
+- [Current Program](#current-program)
+- [Progress](#progress)
+- [Resources](#resources)
+
 ## Current Program
 
 ### Day #1
@@ -60,3 +66,10 @@
 | Planks                             | 3        | 60 sec   |
 | Hyperextension                     | 3        | 10-12    |
 
+## Progress
+
+## Resources
+
+- [/r/fitness wiki](https://www.reddit.com/r/Fitness/wiki/index)
+- [/r/gainit wiki](https://www.reddit.com/r/gainit/wiki/index)
+- [ATHLEAN-X YouTube channel](https://www.youtube.com/channel/UCe0TLA0EsQbE-MjuHXevj2A)
