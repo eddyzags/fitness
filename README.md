@@ -1,10 +1,11 @@
 # Fitness
 
-> This repository is used to store notes and details about fitness.
+> This repository is used to store notes and details about my fitness journey.
 
 ## Contents
 
 - [Current Program](#current-program)
+- [Nutrition](#nutrition)
 - [Reports](#reports)
   - [April 2018](#april-2018)
 - [Notes](#notes)
@@ -68,13 +69,15 @@
 | Planks                             | 3        | 60 sec   |
 | Hyperextension                     | 3        | 10-12    |
 
-## Notes
+## Nutrition
+
+## Reports
 
 ### April 2018
 
 ...
 
-## Reports
+## Notes
 
 ## Resources
 
