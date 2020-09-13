@@ -35,7 +35,7 @@ The traning schedule takes the following form :
   | [Bench Press](https://www.youtube.com/watch?v=tuwHzzPdaGc)                    | 3        | 6-12     |
   | [Barbell  Row](https://www.youtube.com/watch?v=paCfxhgW6bI)                   | 3        | 6-12     |
   | [Seated Overhead Dumbbell Press](https://www.youtube.com/watch?v=FRxZ6wr5bpA) | 3        | 8-12     |
-  | Pec Dec                                                                       | 2        | 10-12    |
+  | [Pec Dec](https://youtu.be/-EIhKMDSjBY?t=169)                                                                     | 2        | 10-12    |
   | [V-Bar Lat Pull Down](https://www.youtube.com/watch?v=uAyrz5GTEHg)            | 2        | 10-12    |
   | Side Lateral Raise                                                            | 2        | 10-15    |
   | [Cable Tricep Extensions](https://www.youtube.com/watch?v=mpZ9VRisAyw)        | 3        | 8-12     |
