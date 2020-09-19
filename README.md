@@ -37,9 +37,9 @@ The traning schedule takes the following form :
   | [Seated Overhead Dumbbell Press](https://www.youtube.com/watch?v=FRxZ6wr5bpA) | 3        | 8-12     |
   | [Pec Dec](https://youtu.be/-EIhKMDSjBY?t=169)                                                                     | 2        | 10-12    |
   | [V-Bar Lat Pull Down](https://www.youtube.com/watch?v=uAyrz5GTEHg)            | 2        | 10-12    |
-  | Side Lateral Raise                                                            | 2        | 10-15    |
+  | [Side Lateral Raise](https://www.youtube.com/watch?v=E3abEP8SIh0)                                                          | 2        | 10-15    |
   | [Cable Tricep Extensions](https://www.youtube.com/watch?v=mpZ9VRisAyw)        | 3        | 8-12     |
-  | Cable Curls                                                                   | 3        | 8-12     |
+  | [Cable Curls](https://www.youtube.com/watch?v=cikXJydntCk)                                                                 | 3        | 8-12     |
 
 - **Day 2**
 
@@ -48,9 +48,9 @@ The traning schedule takes the following form :
   | __Exercise__                                                                      | __Reps__ | __Sets__ |
   | [Squat](https://www.youtube.com/watch?v=R2dMsNhN3DE)                              | 3        | 6-12     |
   | [Stiff Leg Deadlifts](https://www.youtube.com/watch?v=CkrqLaDGvOA)                | 3        | 8-12     |
-  | Standing Calf Raise                                                               | 3        | 10-15    |
+  | [Standing Calf Raise](https://youtu.be/3UWi44yN-wM?t=24)                                                             | 3        | 10-15    |
   | [Leg Extension](https://www.youtube.com/watch?v=0fl1RRgJ83I) - 3 sec negative     | 2        | 10-12    |
-  | Leg Curl - 3 sec negative                                                         | 2        | 10-12    |
+  | [Leg Curl - 3 sec negative](https://youtu.be/72xhLTC69kk?t=51)                                                       | 2        | 10-12    |
   | [Seated Calf Raise](https://www.youtube.com/watch?v=Yh5TXz99xwY) - 3 sec negative | 2        | 10-12    |
   | Cable Crunch - 3 sec negative                                                     | 3        | 10-12    |
   | Cable Pull Through w/Rope                                                         | 3        | 10-12    |
