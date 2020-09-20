@@ -1,13 +1,12 @@
 # Fitness
 
-> This repository is used to store notes and details about my fitness journey.
+> This repository is used to store notes and details about my fitness program.
 
 ## Contents
 
 - [Program](#program)
 - [Nutrition](#nutrition)
 - [Reports](#reports)
-  - [April 2018](#april-2018)
 - [Notes](#notes)
 - [Resources](#resources)
 
@@ -15,7 +14,7 @@
 
 This is an readapted upper/lower split workout inspired by multiple sources. (see the [Resources](#resources) section) This workout is intended primarly at building muscle. 
 
-The traning schedule takes the following form :
+The traning schedule takes the following form:
 
 - **Day 1** - Upper Body
 - **Day 2** - Lower Body
@@ -87,9 +86,6 @@ The traning schedule takes the following form :
 
 ## Reports
 
-### April 2018
-
-...
 
 ## Notes
 
